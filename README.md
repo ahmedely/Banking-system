@@ -1,8 +1,6 @@
-# Graph
 
-Graph implementation using C++ language  
-This project develops an object oriented application of a graph that represents a **Banking System** where the costumers represent the vertices while the transactions are edges.
-The graph achieves the following function:  
+This project develops an object oriented application of a graph representing a **Banking System** allowing costumers to send/receive money from other accounts.
+The code achieves the following function:  
 
 1.  A graph can be empty with no vertex or edge;
 2.  A graph can be either a directed graph or an undirected graph;
@@ -13,4 +11,4 @@ The graph achieves the following function:
 7.  A graph can be queried by given an edge if this edge exists in the graph;
 8.  A graph can be queried if a value is contained by any of its vertex;  
 
-The inheritance, polymorphism and exception handling are also used in the code.   
+Topics like Inheritance/polymorphism & exception handling are covered.   
